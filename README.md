@@ -7,6 +7,6 @@ Dodałem zmienną pasażerów i obsługę przeładowania statku(większe spalani
 mpicc main.c -o main
 mpirun -np 5 main
 ```
-Otrzymałem:
-<img src="https://github.com/kurcevsky/lab7/blob/main/Zrzut%20ekranu%20(61).png?raw=true" width="500" height="300">
+Otrzymałem:<br>
+<img src="https://github.com/kurcevsky/lab7/blob/main/Zrzut%20ekranu%20(61).png?raw=true" width="400" height="300">
 
